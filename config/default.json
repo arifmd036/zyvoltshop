@@ -1,0 +1,21 @@
+{
+  "shop": {
+    "currency": "INR",
+    "language": "en",
+    "weightUnit": "kg",
+    "timezone": "Asia/Kolkata"
+  },
+  "system": {
+    "database": {
+      "host": "localhost",
+      "port": 5432,
+      "database": "evershop",
+      "user": "postgres",
+      "password": "admin"
+    }
+  },
+  "pricing": {
+    "precision": 2,
+    "rounding": "round"
+  }
+}

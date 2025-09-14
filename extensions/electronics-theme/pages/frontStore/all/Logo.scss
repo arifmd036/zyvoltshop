@@ -1,0 +1,101 @@
+.zyvolt-logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  
+  .logo-circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #ff6b35 0%, #ffd700 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    box-shadow: 0 4px 15px rgba(255, 107, 53, 0.3);
+    
+    .lightning-bolt {
+      font-size: 24px;
+      color: #1a1a1a;
+      font-weight: bold;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+    }
+  }
+  
+  .logo-text {
+    display: flex;
+    flex-direction: column;
+    
+    .brand-name {
+      font-size: 24px;
+      font-weight: bold;
+      color: #1a1a1a;
+      letter-spacing: 1px;
+      line-height: 1;
+      background: linear-gradient(135deg, #ff6b35 0%, #ffd700 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    
+    .tagline {
+      font-size: 10px;
+      color: #666;
+      font-weight: 500;
+      letter-spacing: 0.5px;
+      margin-top: 2px;
+      text-transform: uppercase;
+    }
+  }
+  
+  &:hover {
+    .logo-circle {
+      transform: scale(1.05);
+      box-shadow: 0 6px 20px rgba(255, 107, 53, 0.4);
+    }
+    
+    .brand-name {
+      background: linear-gradient(135deg, #ff8c5a 0%, #ffed4a 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+  }
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .zyvolt-logo {
+    gap: 8px;
+    
+    .logo-circle {
+      width: 40px;
+      height: 40px;
+      
+      .lightning-bolt {
+        font-size: 20px;
+      }
+    }
+    
+    .logo-text {
+      .brand-name {
+        font-size: 20px;
+      }
+      
+      .tagline {
+        font-size: 8px;
+      }
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .zyvolt-logo {
+    .logo-text {
+      .tagline {
+        display: none;
+      }
+    }
+  }
+}

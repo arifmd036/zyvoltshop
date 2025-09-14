@@ -16410,104 +16410,104 @@ const BasicMenu_variables = (/* unused pure expression or super */ null && (`{
 /* harmony default export */ const entry = (renderHtml);
 common_Area.defaultProps.components = {
   'icon-wrapper': {
-    e5254f98aea0090ca90cb2d07c28b6a9c: {
-      id: 'e5254f98aea0090ca90cb2d07c28b6a9c',
+    e998ff5a14c8ae4b3d52a3380cfab4c88: {
+      id: 'e998ff5a14c8ae4b3d52a3380cfab4c88',
       sortOrder: 5,
       component: { default: SearchBox }
     },
-    edded48a09cf20d9e55f6b3ead2bf38b6: {
-      id: 'edded48a09cf20d9e55f6b3ead2bf38b6',
+    e8d5041b46b2368d8e313125cb7d7bd6f: {
+      id: 'e8d5041b46b2368d8e313125cb7d7bd6f',
       sortOrder: 10,
       component: { default: MiniCart }
     },
-    ed8299da12ce4c058335b6583a48bd165: {
-      id: 'ed8299da12ce4c058335b6583a48bd165',
+    ee0a44907be9637676a7684789bec626f: {
+      id: 'ee0a44907be9637676a7684789bec626f',
       sortOrder: 30,
       component: { default: UserIcon_UserIcon }
     }
   },
   productViewGeneralInfo: {
-    eb3e8d4b68fbad37d5e33a071702f48d2: {
-      id: 'eb3e8d4b68fbad37d5e33a071702f48d2',
+    edafb18016d7f324ba8e2396654107d42: {
+      id: 'edafb18016d7f324ba8e2396654107d42',
       sortOrder: 25,
       component: { default: productView_Attributes }
     }
   },
   productPageMiddleRight: {
-    e2d3a17f45cff705d106019b4418bfd5b: {
-      id: 'e2d3a17f45cff705d106019b4418bfd5b',
+    edd0d7829200abf4759a4acf1fb48212a: {
+      id: 'edd0d7829200abf4759a4acf1fb48212a',
       sortOrder: 50,
       component: { default: Description }
     },
-    e7e376173a3751197b6ceb0462d9b61e3: {
-      id: 'e7e376173a3751197b6ceb0462d9b61e3',
+    eb09ef82b2f3c596d3e3f291fd9d6c7b4: {
+      id: 'eb09ef82b2f3c596d3e3f291fd9d6c7b4',
       sortOrder: 45,
       component: { default: ProductForm }
     },
-    e0c2c415634c6d14230aac7cdd5c74548: {
-      id: 'e0c2c415634c6d14230aac7cdd5c74548',
+    e2ef4ce1d6469db7bd9a6d2a4b030c2d7: {
+      id: 'e2ef4ce1d6469db7bd9a6d2a4b030c2d7',
       sortOrder: 10,
       component: { default: GeneralInfo }
     },
-    e0ca9e86dbadb9620fe091c61f249bee3: {
-      id: 'e0ca9e86dbadb9620fe091c61f249bee3',
+    e606bac662307919e2b892985f6dd79f8: {
+      id: 'e606bac662307919e2b892985f6dd79f8',
       sortOrder: 30,
       component: { default: Options }
     },
-    e83c64ee86c745f62899b789061a4ce42: {
-      id: 'e83c64ee86c745f62899b789061a4ce42',
+    ed20c385af31a16924ca4c97a308d47a8: {
+      id: 'ed20c385af31a16924ca4c97a308d47a8',
       sortOrder: 35,
       component: { default: Variants }
     }
   },
   productPageMiddleLeft: {
-    e2c287ccccaeb18c5b5a13cdfd51b74f7: {
-      id: 'e2c287ccccaeb18c5b5a13cdfd51b74f7',
+    e23d570145118fa6ec7717314b40b3c44: {
+      id: 'e23d570145118fa6ec7717314b40b3c44',
       sortOrder: 10,
       component: { default: Images }
     }
   },
   content: {
-    ed2bc24edab80eab7420d7442e219bfb5: {
-      id: 'ed2bc24edab80eab7420d7442e219bfb5',
+    eaa1e1d23bb0a74c9d3d64cf3e6f284b8: {
+      id: 'eaa1e1d23bb0a74c9d3d64cf3e6f284b8',
       sortOrder: 10,
       component: { default: ProductPageLayout }
     },
-    e2763c2b56919e9b56f645814167f4e11: {
-      id: 'e2763c2b56919e9b56f645814167f4e11',
+    ef8568ccfdab6d3f7a3a19fdf7eae069e: {
+      id: 'ef8568ccfdab6d3f7a3a19fdf7eae069e',
       sortOrder: 0,
       component: { default: all_Breadcrumb }
     }
   },
   footer: {
-    ed51278e1a2a4ccd0745ddb7cf7de94fa: {
-      id: 'ed51278e1a2a4ccd0745ddb7cf7de94fa',
+    e27fbbdc870b5478a123cb0437fe8a71d: {
+      id: 'e27fbbdc870b5478a123cb0437fe8a71d',
       sortOrder: 10,
       component: { default: all_Footer }
     }
   },
   head: {
-    ec8d6335ce455ac2614536f524e6bd243: {
-      id: 'ec8d6335ce455ac2614536f524e6bd243',
+    ec909e0e30f367f36ecceee7ed1822caa: {
+      id: 'ec909e0e30f367f36ecceee7ed1822caa',
       sortOrder: 5,
       component: { default: HeadTags }
     }
   },
   body: {
-    e3ec23e49b200d6c8a45199a455ec5c42: {
-      id: 'e3ec23e49b200d6c8a45199a455ec5c42',
+    e986b885d85773fef375df73e24e051cc: {
+      id: 'e986b885d85773fef375df73e24e051cc',
       sortOrder: 1,
       component: { default: Layout }
     },
-    e3fd37198a975a9edb5dcebd31666ba68: {
-      id: 'e3fd37198a975a9edb5dcebd31666ba68',
+    e6931bd904075a583d5b8744e3ae430d9: {
+      id: 'e6931bd904075a583d5b8744e3ae430d9',
       sortOrder: 10,
       component: { default: Notification }
     }
   },
   header: {
-    ead93ea263a0f90048244cf3271ade8e5: {
-      id: 'ead93ea263a0f90048244cf3271ade8e5',
+    ec180de1f1e7cddacc70440176cafee0d: {
+      id: 'ec180de1f1e7cddacc70440176cafee0d',
       sortOrder: 10,
       component: { default: Logo }
     }

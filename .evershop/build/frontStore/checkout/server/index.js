@@ -29246,129 +29246,129 @@ const BasicMenu_variables = (/* unused pure expression or super */ null && (`{
 /* harmony default export */ const entry = (renderHtml);
 common_Area.defaultProps.components = {
   'icon-wrapper': {
-    e5254f98aea0090ca90cb2d07c28b6a9c: {
-      id: 'e5254f98aea0090ca90cb2d07c28b6a9c',
+    e998ff5a14c8ae4b3d52a3380cfab4c88: {
+      id: 'e998ff5a14c8ae4b3d52a3380cfab4c88',
       sortOrder: 5,
       component: { default: SearchBox }
     },
-    edded48a09cf20d9e55f6b3ead2bf38b6: {
-      id: 'edded48a09cf20d9e55f6b3ead2bf38b6',
+    e8d5041b46b2368d8e313125cb7d7bd6f: {
+      id: 'e8d5041b46b2368d8e313125cb7d7bd6f',
       sortOrder: 10,
       component: { default: MiniCart }
     },
-    ed8299da12ce4c058335b6583a48bd165: {
-      id: 'ed8299da12ce4c058335b6583a48bd165',
+    ee0a44907be9637676a7684789bec626f: {
+      id: 'ee0a44907be9637676a7684789bec626f',
       sortOrder: 30,
       component: { default: UserIcon_UserIcon }
     }
   },
   content: {
-    e3001e79bdf0eb43a655c826d820a93df: {
-      id: 'e3001e79bdf0eb43a655c826d820a93df',
+    e3536132844bdce744439bd457df1440d: {
+      id: 'e3536132844bdce744439bd457df1440d',
       sortOrder: 10,
       component: { default: CheckoutPage }
     },
-    e2763c2b56919e9b56f645814167f4e11: {
-      id: 'e2763c2b56919e9b56f645814167f4e11',
+    ef8568ccfdab6d3f7a3a19fdf7eae069e: {
+      id: 'ef8568ccfdab6d3f7a3a19fdf7eae069e',
       sortOrder: 0,
       component: { default: all_Breadcrumb }
     }
   },
   checkoutSteps: {
-    e4a2636047ba4071e009663da8132bdd0: {
-      id: 'e4a2636047ba4071e009663da8132bdd0',
+    e720f39950f6ddbdca3e8758ee66a9898: {
+      id: 'e720f39950f6ddbdca3e8758ee66a9898',
       sortOrder: 20,
       component: { default: PaymentStep }
     },
-    ee5246f334f66db6db1e60552a376ad39: {
-      id: 'ee5246f334f66db6db1e60552a376ad39',
+    e8be5d59f4cd7038d698c871430082122: {
+      id: 'e8be5d59f4cd7038d698c871430082122',
       sortOrder: 15,
       component: { default: ShipmentStep }
     },
-    e8592e49dc971434aaf6477a9a18f4abe: {
-      id: 'e8592e49dc971434aaf6477a9a18f4abe',
+    e381bd4be5c2c4eb69eadfc4f859e6988: {
+      id: 'e381bd4be5c2c4eb69eadfc4f859e6988',
       sortOrder: 10,
       component: { default: ContactInformationStep }
     }
   },
   checkoutShippingAddressForm: {
-    e720f66f633922521baf49854d741460f: {
-      id: 'e720f66f633922521baf49854d741460f',
+    e336372436df11d1045d8d36d48ca6f0a: {
+      id: 'e336372436df11d1045d8d36d48ca6f0a',
       sortOrder: 60,
       component: { default: ShippingMethods }
     }
   },
   checkoutSummary: {
-    e036faaf6fcc5a839f8473cd9bf02b4ec: {
-      id: 'e036faaf6fcc5a839f8473cd9bf02b4ec',
+    ec74d1c942f7fcb5d4cb9a282f538c709: {
+      id: 'ec74d1c942f7fcb5d4cb9a282f538c709',
       sortOrder: 50,
       component: { default: ShippingNote }
     }
   },
   checkoutPageRight: {
-    e996e06cc6f4f307f607a45d772951a41: {
-      id: 'e996e06cc6f4f307f607a45d772951a41',
+    efd357fc66cfd3168d82251bc9cd50272: {
+      id: 'efd357fc66cfd3168d82251bc9cd50272',
       sortOrder: 10,
       component: { default: Summary }
     }
   },
   beforePlaceOrderButton: {
-    e73d67196ff274bd4b982cb37c02d0d91: {
-      id: 'e73d67196ff274bd4b982cb37c02d0d91',
+    ec0ca51038fcc1adb7765f870bce6c1bc: {
+      id: 'ec0ca51038fcc1adb7765f870bce6c1bc',
       sortOrder: 10,
       component: { default: SummaryMobile_Summary }
     }
   },
   footer: {
-    ed51278e1a2a4ccd0745ddb7cf7de94fa: {
-      id: 'ed51278e1a2a4ccd0745ddb7cf7de94fa',
+    e27fbbdc870b5478a123cb0437fe8a71d: {
+      id: 'e27fbbdc870b5478a123cb0437fe8a71d',
       sortOrder: 10,
       component: { default: all_Footer }
     }
   },
   head: {
-    ec8d6335ce455ac2614536f524e6bd243: {
-      id: 'ec8d6335ce455ac2614536f524e6bd243',
+    ec909e0e30f367f36ecceee7ed1822caa: {
+      id: 'ec909e0e30f367f36ecceee7ed1822caa',
       sortOrder: 5,
       component: { default: HeadTags }
     }
   },
   body: {
-    e3ec23e49b200d6c8a45199a455ec5c42: {
-      id: 'e3ec23e49b200d6c8a45199a455ec5c42',
+    e986b885d85773fef375df73e24e051cc: {
+      id: 'e986b885d85773fef375df73e24e051cc',
       sortOrder: 1,
       component: { default: Layout }
     },
-    e3fd37198a975a9edb5dcebd31666ba68: {
-      id: 'e3fd37198a975a9edb5dcebd31666ba68',
+    e6931bd904075a583d5b8744e3ae430d9: {
+      id: 'e6931bd904075a583d5b8744e3ae430d9',
       sortOrder: 10,
       component: { default: Notification }
     }
   },
   header: {
-    ead93ea263a0f90048244cf3271ade8e5: {
-      id: 'ead93ea263a0f90048244cf3271ade8e5',
+    ec180de1f1e7cddacc70440176cafee0d: {
+      id: 'ec180de1f1e7cddacc70440176cafee0d',
       sortOrder: 10,
       component: { default: Logo }
     }
   },
   checkoutPaymentMethodcod: {
-    ebce2d524e193a491d4f3771758e1f95b: {
-      id: 'ebce2d524e193a491d4f3771758e1f95b',
+    e1b6eeaf9476208e46b200655aaf852af: {
+      id: 'e1b6eeaf9476208e46b200655aaf852af',
       sortOrder: 10,
       component: { default: CashOnDeliveryMethod }
     }
   },
   checkoutPaymentMethodpaypal: {
-    efe6c73c8fd6d74f5e84d80ebf8eaeccf: {
-      id: 'efe6c73c8fd6d74f5e84d80ebf8eaeccf',
+    e82df8859b2eacf43f470447616690db3: {
+      id: 'e82df8859b2eacf43f470447616690db3',
       sortOrder: 10,
       component: { default: PaypalMethod }
     }
   },
   checkoutPaymentMethodstripe: {
-    e3f25e358e0f5fe8c7b3868f2b6383c9a: {
-      id: 'e3f25e358e0f5fe8c7b3868f2b6383c9a',
+    e137c8fd7e80059ef1e235eac7ce78c36: {
+      id: 'e137c8fd7e80059ef1e235eac7ce78c36',
       sortOrder: 10,
       component: { default: StripeMethod }
     }

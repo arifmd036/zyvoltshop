@@ -2,129 +2,129 @@ import React from 'react';
 import ReactDOM from 'react-dom'; 
 import { Area } from '@evershop/evershop/components/common';
 import { renderHtml } from '@evershop/evershop/components/common';
-import e5254f98aea0090ca90cb2d07c28b6a9c from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/all/SearchBox.js';
-import eb3e8d4b68fbad37d5e33a071702f48d2 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Attributes.js';
-import e2d3a17f45cff705d106019b4418bfd5b from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Description.js';
-import e7e376173a3751197b6ceb0462d9b61e3 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Form.js';
-import e0c2c415634c6d14230aac7cdd5c74548 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/GeneralInfo.js';
-import e2c287ccccaeb18c5b5a13cdfd51b74f7 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Images.js';
-import ed2bc24edab80eab7420d7442e219bfb5 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Layout.js';
-import e0ca9e86dbadb9620fe091c61f249bee3 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Options.js';
-import e83c64ee86c745f62899b789061a4ce42 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Variants.js';
-import edded48a09cf20d9e55f6b3ead2bf38b6 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/checkout/pages/frontStore/all/MiniCart.js';
-import e2763c2b56919e9b56f645814167f4e11 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/cms/pages/frontStore/all/Breadcrumb.js';
-import ed51278e1a2a4ccd0745ddb7cf7de94fa from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/cms/pages/frontStore/all/Footer.js';
-import ec8d6335ce455ac2614536f524e6bd243 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/cms/pages/frontStore/all/HeadTags.js';
-import e3ec23e49b200d6c8a45199a455ec5c42 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/cms/pages/frontStore/all/Layout.js';
-import ead93ea263a0f90048244cf3271ade8e5 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/cms/pages/frontStore/all/Logo.js';
-import e3fd37198a975a9edb5dcebd31666ba68 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/cms/pages/frontStore/all/Notification.js';
-import ed8299da12ce4c058335b6583a48bd165 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/modules/customer/pages/frontStore/all/UserIcon.js';
-import collection_products from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/components/frontStore/widgets/CollectionProducts.js';
-import text_block from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/components/frontStore/widgets/TextBlock.js';
-import basic_menu from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local/node_modules/@evershop/evershop/dist/components/frontStore/widgets/BasicMenu.js';
+import e998ff5a14c8ae4b3d52a3380cfab4c88 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/all/SearchBox.js';
+import edafb18016d7f324ba8e2396654107d42 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Attributes.js';
+import edd0d7829200abf4759a4acf1fb48212a from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Description.js';
+import eb09ef82b2f3c596d3e3f291fd9d6c7b4 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Form.js';
+import e2ef4ce1d6469db7bd9a6d2a4b030c2d7 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/GeneralInfo.js';
+import e23d570145118fa6ec7717314b40b3c44 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Images.js';
+import eaa1e1d23bb0a74c9d3d64cf3e6f284b8 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Layout.js';
+import e606bac662307919e2b892985f6dd79f8 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Options.js';
+import ed20c385af31a16924ca4c97a308d47a8 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/catalog/pages/frontStore/productView/Variants.js';
+import e8d5041b46b2368d8e313125cb7d7bd6f from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/checkout/pages/frontStore/all/MiniCart.js';
+import ef8568ccfdab6d3f7a3a19fdf7eae069e from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/cms/pages/frontStore/all/Breadcrumb.js';
+import e27fbbdc870b5478a123cb0437fe8a71d from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/cms/pages/frontStore/all/Footer.js';
+import ec909e0e30f367f36ecceee7ed1822caa from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/cms/pages/frontStore/all/HeadTags.js';
+import e986b885d85773fef375df73e24e051cc from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/cms/pages/frontStore/all/Layout.js';
+import ec180de1f1e7cddacc70440176cafee0d from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/cms/pages/frontStore/all/Logo.js';
+import e6931bd904075a583d5b8744e3ae430d9 from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/cms/pages/frontStore/all/Notification.js';
+import ee0a44907be9637676a7684789bec626f from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/modules/customer/pages/frontStore/all/UserIcon.js';
+import collection_products from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/components/frontStore/widgets/CollectionProducts.js';
+import text_block from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/components/frontStore/widgets/TextBlock.js';
+import basic_menu from 'file:///C:/Users/arifm/OneDrive/Documents/WORK/Projects/evershop/local%20-%20Copy/node_modules/@evershop/evershop/dist/components/frontStore/widgets/BasicMenu.js';
 export default renderHtml;
 Area.defaultProps.components = {
   'icon-wrapper': {
-    e5254f98aea0090ca90cb2d07c28b6a9c: {
-      id: 'e5254f98aea0090ca90cb2d07c28b6a9c',
+    e998ff5a14c8ae4b3d52a3380cfab4c88: {
+      id: 'e998ff5a14c8ae4b3d52a3380cfab4c88',
       sortOrder: 5,
-      component: { default: e5254f98aea0090ca90cb2d07c28b6a9c }
+      component: { default: e998ff5a14c8ae4b3d52a3380cfab4c88 }
     },
-    edded48a09cf20d9e55f6b3ead2bf38b6: {
-      id: 'edded48a09cf20d9e55f6b3ead2bf38b6',
+    e8d5041b46b2368d8e313125cb7d7bd6f: {
+      id: 'e8d5041b46b2368d8e313125cb7d7bd6f',
       sortOrder: 10,
-      component: { default: edded48a09cf20d9e55f6b3ead2bf38b6 }
+      component: { default: e8d5041b46b2368d8e313125cb7d7bd6f }
     },
-    ed8299da12ce4c058335b6583a48bd165: {
-      id: 'ed8299da12ce4c058335b6583a48bd165',
+    ee0a44907be9637676a7684789bec626f: {
+      id: 'ee0a44907be9637676a7684789bec626f',
       sortOrder: 30,
-      component: { default: ed8299da12ce4c058335b6583a48bd165 }
+      component: { default: ee0a44907be9637676a7684789bec626f }
     }
   },
   productViewGeneralInfo: {
-    eb3e8d4b68fbad37d5e33a071702f48d2: {
-      id: 'eb3e8d4b68fbad37d5e33a071702f48d2',
+    edafb18016d7f324ba8e2396654107d42: {
+      id: 'edafb18016d7f324ba8e2396654107d42',
       sortOrder: 25,
-      component: { default: eb3e8d4b68fbad37d5e33a071702f48d2 }
+      component: { default: edafb18016d7f324ba8e2396654107d42 }
     }
   },
   productPageMiddleRight: {
-    e2d3a17f45cff705d106019b4418bfd5b: {
-      id: 'e2d3a17f45cff705d106019b4418bfd5b',
+    edd0d7829200abf4759a4acf1fb48212a: {
+      id: 'edd0d7829200abf4759a4acf1fb48212a',
       sortOrder: 50,
-      component: { default: e2d3a17f45cff705d106019b4418bfd5b }
+      component: { default: edd0d7829200abf4759a4acf1fb48212a }
     },
-    e7e376173a3751197b6ceb0462d9b61e3: {
-      id: 'e7e376173a3751197b6ceb0462d9b61e3',
+    eb09ef82b2f3c596d3e3f291fd9d6c7b4: {
+      id: 'eb09ef82b2f3c596d3e3f291fd9d6c7b4',
       sortOrder: 45,
-      component: { default: e7e376173a3751197b6ceb0462d9b61e3 }
+      component: { default: eb09ef82b2f3c596d3e3f291fd9d6c7b4 }
     },
-    e0c2c415634c6d14230aac7cdd5c74548: {
-      id: 'e0c2c415634c6d14230aac7cdd5c74548',
+    e2ef4ce1d6469db7bd9a6d2a4b030c2d7: {
+      id: 'e2ef4ce1d6469db7bd9a6d2a4b030c2d7',
       sortOrder: 10,
-      component: { default: e0c2c415634c6d14230aac7cdd5c74548 }
+      component: { default: e2ef4ce1d6469db7bd9a6d2a4b030c2d7 }
     },
-    e0ca9e86dbadb9620fe091c61f249bee3: {
-      id: 'e0ca9e86dbadb9620fe091c61f249bee3',
+    e606bac662307919e2b892985f6dd79f8: {
+      id: 'e606bac662307919e2b892985f6dd79f8',
       sortOrder: 30,
-      component: { default: e0ca9e86dbadb9620fe091c61f249bee3 }
+      component: { default: e606bac662307919e2b892985f6dd79f8 }
     },
-    e83c64ee86c745f62899b789061a4ce42: {
-      id: 'e83c64ee86c745f62899b789061a4ce42',
+    ed20c385af31a16924ca4c97a308d47a8: {
+      id: 'ed20c385af31a16924ca4c97a308d47a8',
       sortOrder: 35,
-      component: { default: e83c64ee86c745f62899b789061a4ce42 }
+      component: { default: ed20c385af31a16924ca4c97a308d47a8 }
     }
   },
   productPageMiddleLeft: {
-    e2c287ccccaeb18c5b5a13cdfd51b74f7: {
-      id: 'e2c287ccccaeb18c5b5a13cdfd51b74f7',
+    e23d570145118fa6ec7717314b40b3c44: {
+      id: 'e23d570145118fa6ec7717314b40b3c44',
       sortOrder: 10,
-      component: { default: e2c287ccccaeb18c5b5a13cdfd51b74f7 }
+      component: { default: e23d570145118fa6ec7717314b40b3c44 }
     }
   },
   content: {
-    ed2bc24edab80eab7420d7442e219bfb5: {
-      id: 'ed2bc24edab80eab7420d7442e219bfb5',
+    eaa1e1d23bb0a74c9d3d64cf3e6f284b8: {
+      id: 'eaa1e1d23bb0a74c9d3d64cf3e6f284b8',
       sortOrder: 10,
-      component: { default: ed2bc24edab80eab7420d7442e219bfb5 }
+      component: { default: eaa1e1d23bb0a74c9d3d64cf3e6f284b8 }
     },
-    e2763c2b56919e9b56f645814167f4e11: {
-      id: 'e2763c2b56919e9b56f645814167f4e11',
+    ef8568ccfdab6d3f7a3a19fdf7eae069e: {
+      id: 'ef8568ccfdab6d3f7a3a19fdf7eae069e',
       sortOrder: 0,
-      component: { default: e2763c2b56919e9b56f645814167f4e11 }
+      component: { default: ef8568ccfdab6d3f7a3a19fdf7eae069e }
     }
   },
   footer: {
-    ed51278e1a2a4ccd0745ddb7cf7de94fa: {
-      id: 'ed51278e1a2a4ccd0745ddb7cf7de94fa',
+    e27fbbdc870b5478a123cb0437fe8a71d: {
+      id: 'e27fbbdc870b5478a123cb0437fe8a71d',
       sortOrder: 10,
-      component: { default: ed51278e1a2a4ccd0745ddb7cf7de94fa }
+      component: { default: e27fbbdc870b5478a123cb0437fe8a71d }
     }
   },
   head: {
-    ec8d6335ce455ac2614536f524e6bd243: {
-      id: 'ec8d6335ce455ac2614536f524e6bd243',
+    ec909e0e30f367f36ecceee7ed1822caa: {
+      id: 'ec909e0e30f367f36ecceee7ed1822caa',
       sortOrder: 5,
-      component: { default: ec8d6335ce455ac2614536f524e6bd243 }
+      component: { default: ec909e0e30f367f36ecceee7ed1822caa }
     }
   },
   body: {
-    e3ec23e49b200d6c8a45199a455ec5c42: {
-      id: 'e3ec23e49b200d6c8a45199a455ec5c42',
+    e986b885d85773fef375df73e24e051cc: {
+      id: 'e986b885d85773fef375df73e24e051cc',
       sortOrder: 1,
-      component: { default: e3ec23e49b200d6c8a45199a455ec5c42 }
+      component: { default: e986b885d85773fef375df73e24e051cc }
     },
-    e3fd37198a975a9edb5dcebd31666ba68: {
-      id: 'e3fd37198a975a9edb5dcebd31666ba68',
+    e6931bd904075a583d5b8744e3ae430d9: {
+      id: 'e6931bd904075a583d5b8744e3ae430d9',
       sortOrder: 10,
-      component: { default: e3fd37198a975a9edb5dcebd31666ba68 }
+      component: { default: e6931bd904075a583d5b8744e3ae430d9 }
     }
   },
   header: {
-    ead93ea263a0f90048244cf3271ade8e5: {
-      id: 'ead93ea263a0f90048244cf3271ade8e5',
+    ec180de1f1e7cddacc70440176cafee0d: {
+      id: 'ec180de1f1e7cddacc70440176cafee0d',
       sortOrder: 10,
-      component: { default: ead93ea263a0f90048244cf3271ade8e5 }
+      component: { default: ec180de1f1e7cddacc70440176cafee0d }
     }
   },
   '*': {

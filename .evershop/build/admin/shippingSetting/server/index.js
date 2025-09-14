@@ -6794,7 +6794,7 @@ if (true) {
 /******/ 
 /******/ /* webpack/runtime/publicPath */
 /******/ (() => {
-/******/ 	__webpack_require__.p = "C:\\Users\\arifm\\OneDrive\\Documents\\WORK\\Projects\\evershop\\local\\.evershop\\build";
+/******/ 	__webpack_require__.p = "C:\\Users\\arifm\\OneDrive\\Documents\\WORK\\Projects\\evershop\\local - Copy\\.evershop\\build";
 /******/ })();
 /******/ 
 /******/ /* webpack/runtime/import chunk loading */
@@ -36737,134 +36737,134 @@ const BasicMenuSetting_variables = (/* unused pure expression or super */ null &
 /* harmony default export */ const entry = (renderHtml);
 common_Area.defaultProps.components = {
   header: {
-    e860fc412a49fafb936f642728eae00a1: {
-      id: 'e860fc412a49fafb936f642728eae00a1',
+    e37e977fd7ae264c52129104b07e59a83: {
+      id: 'e37e977fd7ae264c52129104b07e59a83',
       sortOrder: 50,
       component: { default: AdminUser }
     },
-    e5443383836ee22dc4d35f15c1c9b3ddc: {
-      id: 'e5443383836ee22dc4d35f15c1c9b3ddc',
+    e4a87c218693e7a857f58a61104d0b92d: {
+      id: 'e4a87c218693e7a857f58a61104d0b92d',
       sortOrder: 10,
       component: { default: Logo }
     },
-    ef1c867d85a076a04fefd212b1da46c4f: {
-      id: 'ef1c867d85a076a04fefd212b1da46c4f',
+    e4dcfafa7aa73acb05ea8be5449141ee9: {
+      id: 'e4dcfafa7aa73acb05ea8be5449141ee9',
       sortOrder: 20,
       component: { default: SearchBox }
     }
   },
   adminMenu: {
-    e336cf453f44e8b368079b46e336ad97e: {
-      id: 'e336cf453f44e8b368079b46e336ad97e',
+    e7b1b71c81df5921a81c51d21a912d860: {
+      id: 'e7b1b71c81df5921a81c51d21a912d860',
       sortOrder: 20,
       component: { default: CatalogMenuGroup }
     },
-    e7caf7c73e609aa50a8c7c2c5d9185247: {
-      id: 'e7caf7c73e609aa50a8c7c2c5d9185247',
+    e61fc966ad1b4c9d27d0c72ec521a4ace: {
+      id: 'e61fc966ad1b4c9d27d0c72ec521a4ace',
       sortOrder: 60,
       component: { default: CmsMenuGroup }
     },
-    e56cfff420aa4385b5a2df335f8ac7f0d: {
-      id: 'e56cfff420aa4385b5a2df335f8ac7f0d',
+    e2eecf9a936dd05bbd3c9c14d0428f7de: {
+      id: 'e2eecf9a936dd05bbd3c9c14d0428f7de',
       sortOrder: 10,
       component: { default: QuickLinks }
     },
-    ea4180ab2da23dc0eb3af2cd7e141814b: {
-      id: 'ea4180ab2da23dc0eb3af2cd7e141814b',
+    ecfb661446d0a5a40fbe544c50e654424: {
+      id: 'ecfb661446d0a5a40fbe544c50e654424',
       sortOrder: 40,
       component: { default: CustomerMenuGroup }
     },
-    e99b513d5819a8d70521c5b92b0a7c556: {
-      id: 'e99b513d5819a8d70521c5b92b0a7c556',
+    ef45dde73d911cb0132628d1d939a6796: {
+      id: 'ef45dde73d911cb0132628d1d939a6796',
       sortOrder: 30,
       component: { default: OmsMenuGroup }
     },
-    e0e6480fed83809cae6fc4942fe002a03: {
-      id: 'e0e6480fed83809cae6fc4942fe002a03',
+    e56b881258ded10c3f315d7f39b62481e: {
+      id: 'e56b881258ded10c3f315d7f39b62481e',
       sortOrder: 50,
       component: { default: CouponMenuGroup_CatalogMenuGroup }
     },
-    e721bfabb72b5391fcd88cbd78afd6c4e: {
-      id: 'e721bfabb72b5391fcd88cbd78afd6c4e',
+    e137d8d8058de1cb89b74c07033649b8d: {
+      id: 'e137d8d8058de1cb89b74c07033649b8d',
       sortOrder: 500,
       component: { default: SettingMenuGroup_CmsMenuGroup }
     }
   },
   quickLinks: {
-    ed17d2bff851d352cc6541c599d825ff2: {
-      id: 'ed17d2bff851d352cc6541c599d825ff2',
+    ec54b56a6493c28f96e2f810da1d2d48a: {
+      id: 'ec54b56a6493c28f96e2f810da1d2d48a',
       sortOrder: 20,
       component: { default: NewProductQuickLink }
     },
-    ef05c0902e34c605bbb02becaf1e2feb2: {
-      id: 'ef05c0902e34c605bbb02becaf1e2feb2',
+    e370f0c8c73ad7c8ac15fdc73550c0e3c: {
+      id: 'e370f0c8c73ad7c8ac15fdc73550c0e3c',
       sortOrder: 30,
       component: { default: NewCouponQuickLink_NewProductQuickLink }
     }
   },
   settingPageMenu: {
-    e3c7b1dc4b4fcd12a62ee185605b87da1: {
-      id: 'e3c7b1dc4b4fcd12a62ee185605b87da1',
+    e72373fff40731de94b045b2cf137c739: {
+      id: 'e72373fff40731de94b045b2cf137c739',
       sortOrder: 15,
       component: { default: ShippingSettingMenu }
     },
-    eb413708ff71cf8ba63aae46a7f7168ba: {
-      id: 'eb413708ff71cf8ba63aae46a7f7168ba',
+    e377043e9f383f0820222909e0bcd7f4e: {
+      id: 'e377043e9f383f0820222909e0bcd7f4e',
       sortOrder: 10,
       component: { default: PaymentSettingMenu }
     },
-    e7ea6792e498856aef1ac8704cc24ed97: {
-      id: 'e7ea6792e498856aef1ac8704cc24ed97',
+    e06aedfe03226f99b4156f8ab9525b17d: {
+      id: 'e06aedfe03226f99b4156f8ab9525b17d',
       sortOrder: 5,
       component: { default: StoreSettingMenu }
     },
-    eac5b67232306c1949a0049d372496c5a: {
-      id: 'eac5b67232306c1949a0049d372496c5a',
+    e497b31f1e369fa514097c89d46800e01: {
+      id: 'e497b31f1e369fa514097c89d46800e01',
       sortOrder: 20,
       component: { default: TaxSettingMenu }
     }
   },
   content: {
-    ea3632123b2ad7782660af505e464d519: {
-      id: 'ea3632123b2ad7782660af505e464d519',
+    e71276b946eb97bcc59d2209f0e1ba619: {
+      id: 'e71276b946eb97bcc59d2209f0e1ba619',
       sortOrder: 10,
       component: { default: ShippingSetting }
     }
   },
   footerLeft: {
-    ea92b18f211d82e87b35844d03153b4e7: {
-      id: 'ea92b18f211d82e87b35844d03153b4e7',
+    e1dd6e7867cc618d20f5abdb347912f02: {
+      id: 'e1dd6e7867cc618d20f5abdb347912f02',
       sortOrder: 10,
       component: { default: CopyRight }
     },
-    e4c7ee55eb054f81cad748c5ea3e07469: {
-      id: 'e4c7ee55eb054f81cad748c5ea3e07469',
+    ed856034ebbac62199920d32ccb0ff540: {
+      id: 'ed856034ebbac62199920d32ccb0ff540',
       sortOrder: 20,
       component: { default: Version }
     }
   },
   body: {
-    e5881db414d4aeaf52484f23027c55681: {
-      id: 'e5881db414d4aeaf52484f23027c55681',
+    ea0732393081147da432163767833f317: {
+      id: 'ea0732393081147da432163767833f317',
       sortOrder: 10,
       component: { default: AdminLayout }
     },
-    e2af157e2ae7ef60f4acdb6918239538a: {
-      id: 'e2af157e2ae7ef60f4acdb6918239538a',
+    eff9252022ccc50cafa7f97e8fd303bad: {
+      id: 'eff9252022ccc50cafa7f97e8fd303bad',
       sortOrder: 10,
       component: { default: Notification }
     }
   },
   head: {
-    e205cf78395121c07bf59d7055387e0a4: {
-      id: 'e205cf78395121c07bf59d7055387e0a4',
+    e90ac9cebfef462b2749cd5843d6d605a: {
+      id: 'e90ac9cebfef462b2749cd5843d6d605a',
       sortOrder: 5,
       component: { default: SeoMeta }
     }
   },
   adminNavigation: {
-    e62259dec96c966b4c252a51a823945d8: {
-      id: 'e62259dec96c966b4c252a51a823945d8',
+    efbe8c596685a57dbb3e09b7e6fd69049: {
+      id: 'efbe8c596685a57dbb3e09b7e6fd69049',
       sortOrder: 10,
       component: { default: AdminNavigation }
     }
