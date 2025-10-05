@@ -1,0 +1,41 @@
+services:
+  - type: web
+    name: zyvoltshop
+    env: node
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DB_HOST
+        fromDatabase:
+          name: zyvoltshop-db
+          property: host
+      - key: DB_PORT
+        fromDatabase:
+          name: zyvoltshop-db
+          property: port
+      - key: DB_NAME
+        fromDatabase:
+          name: zyvoltshop-db
+          property: database
+      - key: DB_USER
+        fromDatabase:
+          name: zyvoltshop-db
+          property: user
+      - key: DB_PASSWORD
+        fromDatabase:
+          name: zyvoltshop-db
+          property: password
+      - key: DB_SSLMODE
+        value: require
+      - key: JWT_SECRET
+        generateValue: true
+      - key: APP_BASE_URL
+        sync: false  # Will be set to the service URL after deployment
+
+databases:
+  - name: zyvoltshop-db
+    databaseName: evershop
+    user: evershop_user
+    plan: free  # Change to starter or higher for production
