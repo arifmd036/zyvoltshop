@@ -9,12 +9,11 @@
     "setup": "evershop install",
     "build": "evershop build",
     "start": "evershop start"
-
-
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@evershop/evershop": "^2.0.1"
+    "@evershop/evershop": "^2.0.1",
+    "razorpay": "^2.9.6"
   }
 }

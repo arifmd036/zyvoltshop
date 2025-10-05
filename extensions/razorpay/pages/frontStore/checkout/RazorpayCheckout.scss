@@ -1,0 +1,162 @@
+.razorpay-checkout {
+  .payment-method-item {
+    border: 1px solid #e1e5e9;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    background: #fff;
+    transition: all 0.3s ease;
+
+    &:hover {
+      border-color: #ff6b35;
+      box-shadow: 0 2px 8px rgba(255, 107, 53, 0.1);
+    }
+
+    .payment-method-header {
+      margin-bottom: 1rem;
+
+      .payment-method-logo {
+        display: flex;
+        align-items: center;
+        margin-bottom: 0.5rem;
+
+        .razorpay-logo {
+          width: 80px;
+          height: auto;
+          margin-right: 0.75rem;
+        }
+
+        .payment-method-name {
+          font-size: 1.1rem;
+          font-weight: 600;
+          color: #2c3e50;
+        }
+      }
+
+      .payment-method-description {
+        color: #6c757d;
+        font-size: 0.9rem;
+        line-height: 1.4;
+      }
+    }
+
+    .payment-method-actions {
+      .razorpay-pay-button {
+        width: 100%;
+        background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
+        border: none;
+        color: white;
+        font-weight: 600;
+        padding: 0.875rem 1.5rem;
+        border-radius: 6px;
+        font-size: 1rem;
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+
+        &:hover:not(:disabled) {
+          background: linear-gradient(135deg, #e55a2b 0%, #e8851a 100%);
+          transform: translateY(-1px);
+          box-shadow: 0 4px 12px rgba(255, 107, 53, 0.3);
+        }
+
+        &:disabled {
+          opacity: 0.7;
+          cursor: not-allowed;
+          transform: none;
+        }
+
+        .spinner {
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+
+          .spinner-border-sm {
+            width: 1rem;
+            height: 1rem;
+            border-width: 2px;
+          }
+        }
+
+        i {
+          font-size: 1.1rem;
+        }
+      }
+    }
+
+    .payment-method-error {
+      margin-top: 0.75rem;
+      padding: 0.5rem;
+      background: #fff3cd;
+      border: 1px solid #ffeaa7;
+      border-radius: 4px;
+      text-align: center;
+
+      .text-warning {
+        color: #856404;
+        font-size: 0.85rem;
+      }
+    }
+  }
+}
+
+// Responsive design
+@media (max-width: 768px) {
+  .razorpay-checkout {
+    .payment-method-item {
+      padding: 1rem;
+
+      .payment-method-header {
+        .payment-method-logo {
+          .razorpay-logo {
+            width: 60px;
+          }
+
+          .payment-method-name {
+            font-size: 1rem;
+          }
+        }
+
+        .payment-method-description {
+          font-size: 0.85rem;
+        }
+      }
+
+      .payment-method-actions {
+        .razorpay-pay-button {
+          padding: 0.75rem 1rem;
+          font-size: 0.9rem;
+        }
+      }
+    }
+  }
+}
+
+// Dark theme support
+@media (prefers-color-scheme: dark) {
+  .razorpay-checkout {
+    .payment-method-item {
+      background: #2d3748;
+      border-color: #4a5568;
+
+      .payment-method-header {
+        .payment-method-logo {
+          .payment-method-name {
+            color: #e2e8f0;
+          }
+        }
+
+        .payment-method-description {
+          color: #a0aec0;
+        }
+      }
+
+      &:hover {
+        border-color: #ff6b35;
+        background: #374151;
+      }
+    }
+  }
+}

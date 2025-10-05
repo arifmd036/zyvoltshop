@@ -17,5 +17,13 @@
   "pricing": {
     "precision": 2,
     "rounding": "round"
+  },
+  "razorpay": {
+    "status": 0,
+    "keyId": "",
+    "keySecret": "",
+    "mode": "test",
+    "webhookSecret": "",
+    "currency": "INR"
   }
 }
